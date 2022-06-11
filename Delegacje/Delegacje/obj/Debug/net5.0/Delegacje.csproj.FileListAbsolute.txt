@@ -1,0 +1,16 @@
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\bin\Debug\net5.0\Delegacje.exe
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\bin\Debug\net5.0\Delegacje.deps.json
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\bin\Debug\net5.0\Delegacje.runtimeconfig.json
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\bin\Debug\net5.0\Delegacje.runtimeconfig.dev.json
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\bin\Debug\net5.0\Delegacje.dll
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\bin\Debug\net5.0\ref\Delegacje.dll
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\bin\Debug\net5.0\Delegacje.pdb
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\obj\Debug\net5.0\Delegacje.csproj.AssemblyReference.cache
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\obj\Debug\net5.0\Delegacje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\obj\Debug\net5.0\Delegacje.AssemblyInfoInputs.cache
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\obj\Debug\net5.0\Delegacje.AssemblyInfo.cs
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\obj\Debug\net5.0\Delegacje.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\obj\Debug\net5.0\Delegacje.dll
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\obj\Debug\net5.0\ref\Delegacje.dll
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\obj\Debug\net5.0\Delegacje.pdb
+C:\Users\kacpe\source\repos\Delegacje\Delegacje\obj\Debug\net5.0\Delegacje.genruntimeconfig.cache
