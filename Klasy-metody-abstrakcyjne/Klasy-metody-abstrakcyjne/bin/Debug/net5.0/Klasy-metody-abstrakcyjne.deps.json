@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Klasy-metody-abstrakcyjne/1.0.0": {
+        "runtime": {
+          "Klasy-metody-abstrakcyjne.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Klasy-metody-abstrakcyjne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\bin\Debug\net5.0\Klasy-metody-abstrakcyjne.exe
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\bin\Debug\net5.0\Klasy-metody-abstrakcyjne.deps.json
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\bin\Debug\net5.0\Klasy-metody-abstrakcyjne.runtimeconfig.json
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\bin\Debug\net5.0\Klasy-metody-abstrakcyjne.runtimeconfig.dev.json
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\bin\Debug\net5.0\Klasy-metody-abstrakcyjne.dll
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\bin\Debug\net5.0\ref\Klasy-metody-abstrakcyjne.dll
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\bin\Debug\net5.0\Klasy-metody-abstrakcyjne.pdb
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\obj\Debug\net5.0\Klasy-metody-abstrakcyjne.csproj.AssemblyReference.cache
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\obj\Debug\net5.0\Klasy-metody-abstrakcyjne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\obj\Debug\net5.0\Klasy-metody-abstrakcyjne.AssemblyInfoInputs.cache
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\obj\Debug\net5.0\Klasy-metody-abstrakcyjne.AssemblyInfo.cs
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\obj\Debug\net5.0\Klasy-metody-abstrakcyjne.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\obj\Debug\net5.0\Klasy-metody-abstrakcyjne.dll
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\obj\Debug\net5.0\ref\Klasy-metody-abstrakcyjne.dll
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\obj\Debug\net5.0\Klasy-metody-abstrakcyjne.pdb
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-metody-abstrakcyjne\Klasy-metody-abstrakcyjne\obj\Debug\net5.0\Klasy-metody-abstrakcyjne.genruntimeconfig.cache
