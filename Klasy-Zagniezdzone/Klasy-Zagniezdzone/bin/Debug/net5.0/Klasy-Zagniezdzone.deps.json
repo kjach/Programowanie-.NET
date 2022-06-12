@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Klasy-Zagniezdzone/1.0.0": {
+        "runtime": {
+          "Klasy-Zagniezdzone.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Klasy-Zagniezdzone/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

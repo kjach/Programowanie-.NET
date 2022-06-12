@@ -1,0 +1,16 @@
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\bin\Debug\net5.0\Klasy-Zagniezdzone.exe
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\bin\Debug\net5.0\Klasy-Zagniezdzone.deps.json
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\bin\Debug\net5.0\Klasy-Zagniezdzone.runtimeconfig.json
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\bin\Debug\net5.0\Klasy-Zagniezdzone.runtimeconfig.dev.json
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\bin\Debug\net5.0\Klasy-Zagniezdzone.dll
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\bin\Debug\net5.0\ref\Klasy-Zagniezdzone.dll
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\bin\Debug\net5.0\Klasy-Zagniezdzone.pdb
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\obj\Debug\net5.0\Klasy-Zagniezdzone.csproj.AssemblyReference.cache
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\obj\Debug\net5.0\Klasy-Zagniezdzone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\obj\Debug\net5.0\Klasy-Zagniezdzone.AssemblyInfoInputs.cache
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\obj\Debug\net5.0\Klasy-Zagniezdzone.AssemblyInfo.cs
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\obj\Debug\net5.0\Klasy-Zagniezdzone.csproj.CoreCompileInputs.cache
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\obj\Debug\net5.0\Klasy-Zagniezdzone.dll
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\obj\Debug\net5.0\ref\Klasy-Zagniezdzone.dll
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\obj\Debug\net5.0\Klasy-Zagniezdzone.pdb
+C:\Users\kacpe\STUDIA\Semestr 4\.NET\Programowanie-.NET\Klasy-Zagniezdzone\Klasy-Zagniezdzone\obj\Debug\net5.0\Klasy-Zagniezdzone.genruntimeconfig.cache
